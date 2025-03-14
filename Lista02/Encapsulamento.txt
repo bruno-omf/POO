@@ -1,0 +1,8 @@
+1. Explique o que é encapsulamento.
+    encapsulamento é esconder os detalhes internos de um objeto
+    e expor apenas o que é necessário para interagir com ele.
+
+2. Explique o que é abstração.
+    abstração é simplificar a complexidade e focar somente
+    no essencial. ela foca no QUE o um objeto faz, sem se
+    preocupar com detalhes de COMO ele faz.
