@@ -1,7 +1,11 @@
-import java.lang.Math;)
+import java.lang.Math;
 
 public class Circulo {
     private double raio;
+
+    public Circulo(double raio) {
+        this.raio = raio;
+    }
 
     public void setRaio(double raio) {
         this.raio = raio;
@@ -16,7 +20,7 @@ public class Circulo {
     }
 
     public String toString() {
-
+        return "Circulo com raio " + raio + " e comprimento " + getComprimento();
     }
     
 
