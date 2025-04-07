@@ -1,0 +1,28 @@
+Atributo: variável que armazena dados. representa características ou propriedades de uma classe
+Método: função ou procedimento associado a uma classe. define o comportamento ou as ações que um objeto pode realizar.
+
+1. Explique a diferença entre classes e objetos:
+    uma classe é uma estrutura onde se definem atributos e métodos.
+    as classes servem como um "modelo" ou "blueprint" para criar objetos.
+
+    os objetos são instâncias de uma classe, ou seja, são realizações concretas de uma classe.
+
+    a classe é o modelo abstrato que define como algo deve ser.
+    o objeto é a realização concreta desse modelo, com valores reais.
+
+2. Explique o que são construtores, qual seu papel na orientação
+   a objetos e quais são as regras para sua criação / utilização
+   na linguagem Java.
+
+    construtores são métodos especiais dentro de uma classe que servem para a
+    inicialização dos atributos do objeto de uma classe. eles garantem que objetos
+    comecem em um estado válido.
+    as regras para a criação e utilização dos contrutores em Java são:
+    - devem ter o mesmo nome da classe que está inserido
+    - não ter tipo de retorno, nem mesmo void.
+    
+3. Explique o princípio da abstração.
+    abstração é o processo de esconder os detalhes complexos de implementação
+    de um objeto, expondo apenas as características e comportamentos essenciais
+    para o usuário.
+    ela permite que nos concentremos no "o que" um objeto faz, em vez do "como".

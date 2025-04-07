@@ -1,0 +1,18 @@
+1. Explique o que é encapsulamento.
+    encapsulamento é esconder os detalhes internos de um objeto
+    e expor apenas o que é necessário para interagir com ele.
+
+2. Explique o que é abstração.
+    abstração é simplificar a complexidade e focar somente
+    no essencial. ela foca no QUE o um objeto faz, sem se
+    preocupar com detalhes de COMO ele faz.
+
+
+Encapsular é esconder detalhes de implementação e proteger o que nao pode ser exposto/acessado/modificado.
+
+Abstrair não é necessariamente esconder.
+A abstracao pode existir sem encapsulamento, mas será uma abstração empobrecida, fraca e insegura.
+
+Abstrair é focar no que importa e deixar de lado o que é irrelevante para quem está usando algo.
+
+O uso de pacotes em JAVA é um bom exemplo de abstração porque os pacotes escondem os detalhes de implementação e mostram apenas o que é necessário.
