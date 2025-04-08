@@ -1,0 +1,9 @@
+A palavra reservada "final" significa invariância, imutabilidade.
+
+- Quando é aplicada a um atributo, não permite que ele seja alterado.
+- Se for aplicada a uma classe, não permite que ela seja herdada, ou seja, que ela tenha sub hierarquia.
+- Quando aplicada a um método, não permite que ele seja sobrescrito.
+
+Se o programador tentar fazer algo contrário a isso, o código não compila.
+
+Normalmente, constantes em JAVA são declaradas como "static final".

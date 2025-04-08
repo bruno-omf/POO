@@ -1,0 +1,6 @@
+A palavra reservada "static" quando colocada na frende da definição de algum atributo ou método, significa
+"de classe", ou seja: esses atributos ou métodos que são static, não podem ser instanciados quando objetos
+da classe são criados. Eles pertencem à classe.
+
+exemplo de uso:
+- <nomeDaClasse>.<atributo ou método static>

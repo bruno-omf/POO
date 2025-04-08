@@ -2,6 +2,13 @@
     encapsulamento é esconder os detalhes internos de um objeto
     e expor apenas o que é necessário para interagir com ele.
 
+    O encapsulamento torna o software mais flexível e fácil de implementar modificações, porque
+    uma vez bem encapsulado e abstraido, os detalhes nao vao importar tanto assim para o usuário.
+
+    Também facilita a organização do código e aumenta a possibilidade de reuso de componentes.
+
+    E ajuda a reduzir o acoplamento entre pares de um sistema.
+
 2. Explique o que é abstração.
     abstração é simplificar a complexidade e focar somente
     no essencial. ela foca no QUE o um objeto faz, sem se

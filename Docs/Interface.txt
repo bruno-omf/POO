@@ -1,0 +1,4 @@
+Uma interface é uma lista de serviços oferecida por um componente.
+
+- É formada por atributos e métodos públicos.
+- Não explica como o trabalho é realizado, apenas a "lista de serviços".
